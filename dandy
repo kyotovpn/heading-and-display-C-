@@ -1,0 +1,13 @@
+WriteLine("**************************************************");
+WriteLine("\tBonus");
+WriteLine("\tCalculate Bonus for sales employees");
+WriteLine("\tYour name");
+WriteLine("\t{0}", DateTime.Today.ToShortDateString());
+
+
+
+
+WriteLine("**************************************************");
+WriteLine("This progrgam will determine Bonus for employees");
+WriteLine("");
+WriteLine("You will be asked to enter sales name, sales,\nand employee code.");
